@@ -53,7 +53,7 @@ const SignUp = () => {
     borderradius: '10px',
   };
 
-  const Avstyle = { background: 'blue', margin: '0 110px ', justifyContent: 'center' };
+  const Avstyle = { background: 'blue', margin: '0 130px ', justifyContent: 'center' };
 
   return (
     <Container style={ConStyle}>

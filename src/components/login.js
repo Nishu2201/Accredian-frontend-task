@@ -43,9 +43,9 @@ function Login() {
 
   const logStyle = {
     padding: '30px 20px',
-    width: 300,
+    width: 350,
     height: '70vh',
-    margin: '20px auto',
+    margin: '70px auto',
     background: 'linear-gradient(transparent,#d7e9ea,#d7e9ea,transparent)',
     boxdropfilter: 'transparent',
     boxShadow: '0 8px 32px 0 rgba(31,38,165,0.37)',
